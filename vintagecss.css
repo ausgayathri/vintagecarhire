@@ -1,0 +1,25 @@
+h1 {
+text-align: center;
+}
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    }
+    h3 {
+        text-align: left;
+        padding-top: 10px;
+        }
+
+form {
+background-color: lightblue;
+margin-left: 5px;
+width: 40%;
+padding-left: 10px;
+
+}
+label{
+    padding-left: 10px;
+}
+footer {
+    text-align: center;
+}
